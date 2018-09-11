@@ -2,6 +2,14 @@
 ### tracking and reconstruction
 - normally sperated into tracking pipeline and reconstruction pipeline.
 - some work is to build reconstruction directly. [ElasticFusion](http://www.thomaswhelan.ie/Whelan16ijrr.pdf)
+### tracking
+- frame-to-frame
+- frame-to-map
+- map-to-map
+
+### representation
+- feature points (SURF, SIFT, ORB, etc)
+- Fusion : surface (based on TSDFs)
 
 # SFM 
 not in real time 
