@@ -1,3 +1,14 @@
+# SLAM
+### tracking and reconstruction
+- normally sperated into tracking pipeline and reconstruction pipeline.
+- some work is to build reconstruction directly. [ElasticFusion](http://www.thomaswhelan.ie/Whelan16ijrr.pdf)
+
+# SFM 
+not in real time 
+- run global
+- run one by one as timestramp
+
+
 # 3d_segmentation
 
 see the wiki page for more [WIKI](https://github.com/gggliuye/3d_segmentation/wiki)
